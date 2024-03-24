@@ -1,0 +1,3 @@
+[AutoRun]
+OPEN=STARTDOC.EXE test.bat
+LABEL=- USB Flash Drive 240219 -
